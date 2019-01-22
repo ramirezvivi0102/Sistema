@@ -15,6 +15,7 @@
 # Visual Studio 2015/2017 cache/options directory
 *.vs/
 *.suo
+*.ide-wal
 
 # Archivos específicos del usuario (MonoDevelop / Xamarin Studio)
 * .userprefs
