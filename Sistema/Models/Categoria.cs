@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Sistema.Models
 {
-    public class Categoria
+    public class Categoria 
     {
         public int CategoriaID { get; set; }
 

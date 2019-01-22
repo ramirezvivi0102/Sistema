@@ -12,6 +12,9 @@
 * .userosscache
 * .sln.docstates
 
+# Visual Studio 2015/2017 cache/options directory
+*.vs/
+
 # Archivos específicos del usuario (MonoDevelop / Xamarin Studio)
 * .userprefs
 
