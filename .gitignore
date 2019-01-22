@@ -278,3 +278,39 @@ __pycache __ /
 # herramientas/
 
 # Fin de https://www.gitignore.io/api/aspnetcore
+
+
+* .swp
+*. * ~
+proyecto.lock.json
+.DS_Store
+* .pyc
+nupkg /
+
+# Visual Studio Code
+.vscode
+
+# Archivos específicos del usuario
+* .suo
+*.usuario
+* .userosscache
+* .sln.docstates
+
+# Construir resultados
+[Dd] ebug /
+[Dd] ebugPublic /
+[Rr] elease /
+[Rr] eleases /
+x64 /
+x86 /
+construir/
+bld /
+[Bb] en /
+[Oo] bj /
+[Oo] ut /
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs /
